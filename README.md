@@ -11,6 +11,6 @@ https://www.tlm.unavarra.es/~daniel/docencia/rng/rng16_17/
 
 http://ocw.uc3m.es/ingenieria-informatica/analisis-de-datos
 
-- Aprendizje automático para el análisis de datos. Universidad Carlos III
+- Aprendizaje automático para el análisis de datos. Universidad Carlos III
 
 http://ocw.uc3m.es/ingenieria-informatica/aprendizaje-automatico-para-el-analisis-de-datos-2013
