@@ -25,4 +25,10 @@ http://ocw.uc3m.es/ingenieria-informatica/aprendizaje-automatico-para-el-analisi
 
 - https://blog.selectel.com/managing-containers-lxd-brief-introduction/
 
+- Tutorial lxd 2.0
+
 - https://stgraber.org/2016/03/11/lxd-2-0-blog-post-series-012/
+
+- Curso lxc y Docker
+
+https://www.youtube.com/watch?v=AR9grGcukPE
