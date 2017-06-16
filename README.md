@@ -1,6 +1,8 @@
 # RecursosImprescindibles
 Enlaces, fuentes, datasets, publicaciones
 
+## Inteligencia Artificial y análisis de datos.
+
 - Curso de redes de la universidad de Navarra, 2016/2017
 
 https://www.tlm.unavarra.es/~daniel/docencia/rng/rng16_17/
