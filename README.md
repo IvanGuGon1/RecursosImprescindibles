@@ -19,6 +19,10 @@ http://ocw.uc3m.es/ingenieria-informatica/analisis-de-datos
 
 http://ocw.uc3m.es/ingenieria-informatica/aprendizaje-automatico-para-el-analisis-de-datos-2013
 
+- Matemáticas y IA en Python (Español)
+
+http://relopezbriega.github.io/
+
 ## Odoo
 - Odoo y contenedores LXD
 
@@ -41,3 +45,9 @@ http://odoo-development.readthedocs.io/
 - Contenedores
 
 https://www.flockport.com/guides/
+
+## Web
+
+- Flask
+
+  https://lomelisan.wordpress.com/2015/05/29/mega-tutorial-de-flask-python-1era-parte-hola-mundo/
