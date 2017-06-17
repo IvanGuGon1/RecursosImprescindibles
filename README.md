@@ -19,6 +19,11 @@ http://ocw.uc3m.es/ingenieria-informatica/analisis-de-datos
 
 http://ocw.uc3m.es/ingenieria-informatica/aprendizaje-automatico-para-el-analisis-de-datos-2013
 
+## Odoo
+- Odoo y contenedores LXD
+
+http://odoo-development.readthedocs.io/
+
 ## Virtualización
 
 - https://linuxcontainers.org/
