@@ -58,5 +58,27 @@ https://www.flockport.com/guides/
 
   https://lomelisan.wordpress.com/2015/05/29/mega-tutorial-de-flask-python-1era-parte-hola-mundo/
   
+    - CodigoFacilito
+    
+    https://www.youtube.com/watch?v=M408lxhhok8&index=2&list=PLagErt3C7iltAydvN6SgCVKsOH4xQQKsk
+    
+    - ExploreFlask
+    
+    https://exploreflask.com/en/latest/preface.html
+    
+    - Jinja2
+    
+    https://noobtropicz.wordpress.com/2017/03/28/jinja2-a-medium-between-python-and-front-end/
+    
+    - 3 tutoriales sobre jinja y flask
+    
+    https://code.tutsplus.com/tutorials/templating-with-jinja2-in-flask-essentials--cms-25571
+    
+    - Crea aplicacion sencilla
+    
+    https://stormpath.com/blog/build-a-flask-app-in-30-minutes
+  
+ 
+  
 - XML
   http://www.abrirllave.com/xml/chuleta-de-xml.php
