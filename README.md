@@ -57,3 +57,6 @@ https://www.flockport.com/guides/
 - Flask
 
   https://lomelisan.wordpress.com/2015/05/29/mega-tutorial-de-flask-python-1era-parte-hola-mundo/
+  
+- XML
+  http://www.abrirllave.com/xml/chuleta-de-xml.php
