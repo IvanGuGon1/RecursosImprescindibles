@@ -23,6 +23,12 @@ http://ocw.uc3m.es/ingenieria-informatica/aprendizaje-automatico-para-el-analisi
 
 http://relopezbriega.github.io/
 
+- Notebooks PythonAnyWhere
+https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks
+
+- virtual LAB Data Science.
+ https://datascientistworkbench.com/
+
 ## Odoo
 - Odoo y contenedores LXD
 
