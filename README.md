@@ -1,9 +1,9 @@
 # RecursosImprescindibles
 Enlaces, fuentes, datasets, publicaciones
+## CMS
+- Wordpress
+https://www.digitalocean.com/community/tutorials/como-instalar-wordpress-con-lamp-en-ubuntu-16-04-es#requisitos-previos
 
-## Seguridad y Hacking
-
-- http://hackpuntes.com/
 
 ## Inteligencia Artificial y análisis de datos.
 
@@ -33,6 +33,15 @@ https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Noteboo
 - Odoo y contenedores LXD
 
 http://odoo-development.readthedocs.io/
+
+## Seguridad y Hacking
+
+- http://hackpuntes.com/
+
+## Servidores
+
+- Apache
+https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04
 
 ## Virtualización
 
