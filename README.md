@@ -1,5 +1,9 @@
 # RecursosImprescindibles
 Enlaces, fuentes, datasets, publicaciones
+
+## Blogs
+- Django, Python
+ http://www.marinamele.com/
 ## CMS
 - Wordpress
 https://www.digitalocean.com/community/tutorials/como-instalar-wordpress-con-lamp-en-ubuntu-16-04-es#requisitos-previos
@@ -59,7 +63,7 @@ https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mys
 
 - Contenedores
 
-https://www.flockport.com/guides/
+- https://www.flockport.com/guides/
 
 ## Web
 
@@ -87,7 +91,8 @@ https://www.flockport.com/guides/
     
     https://stormpath.com/blog/build-a-flask-app-in-30-minutes
   
+ - Jinja
+  https://realpython.com/blog/python/primer-on-jinja-templating/
  
-  
 - XML
   http://www.abrirllave.com/xml/chuleta-de-xml.php
