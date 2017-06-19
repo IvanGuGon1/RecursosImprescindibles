@@ -93,6 +93,13 @@ https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mys
   
  - Jinja
   https://realpython.com/blog/python/primer-on-jinja-templating/
+  
+ - Wordpress
+  https://aristath.github.io/blog/using-twig-in-wordpress
+  
+  https://github.com/cjonasw/wordpress-starter-theme-timber-twig
+  
+  https://css-tricks.com/timber-and-twig-reignited-my-love-for-wordpress/
  
 - XML
   http://www.abrirllave.com/xml/chuleta-de-xml.php
