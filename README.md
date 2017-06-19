@@ -65,6 +65,10 @@ https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mys
 
 - https://www.flockport.com/guides/
 
+- Script contenedores LXD/LXC
+
+- https://bash.cyberciti.biz/virtualization/shell-script-to-setup-an-lxd-linux-containers-vm-lab-for-testing-purpose/
+
 ## Web
 
 - Flask
