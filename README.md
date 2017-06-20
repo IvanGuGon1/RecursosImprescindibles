@@ -69,6 +69,10 @@ https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mys
 
 - https://bash.cyberciti.biz/virtualization/shell-script-to-setup-an-lxd-linux-containers-vm-lab-for-testing-purpose/
 
+- LXD demo servidor
+
+- https://github.com/lxc/lxd-demo-server
+
 ## Web
 
 - Flask
