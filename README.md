@@ -8,6 +8,16 @@ Enlaces, fuentes, datasets, publicaciones
 - Wordpress
 https://www.digitalocean.com/community/tutorials/como-instalar-wordpress-con-lamp-en-ubuntu-16-04-es#requisitos-previos
 
+## Competiciones y retos Data Science, y ML
+- Kaggle
+https://www.kaggle.com/datasets
+
+- HackeEarth
+https://www.hackerearth.com
+
+- HackeRank
+
+https://www.hackerrank.com/
 
 ## Inteligencia Artificial y análisis de datos.
 
