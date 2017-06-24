@@ -19,6 +19,12 @@ https://www.hackerearth.com
 
 https://www.hackerrank.com/
 
+## GO
+
+- Go para programadores de Python
+
+- https://golang-for-python-programmers.readthedocs.io/en/latest/intro.html
+
 ## Inteligencia Artificial y análisis de datos.
 
 - Curso de redes de la universidad de Navarra, 2016/2017
