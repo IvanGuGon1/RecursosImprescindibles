@@ -9,6 +9,11 @@ Enlaces, fuentes, datasets, publicaciones
 https://www.digitalocean.com/community/tutorials/como-instalar-wordpress-con-lamp-en-ubuntu-16-04-es#requisitos-previos
 
 ## Competiciones y retos Data Science, y ML
+
+- Datasets variados
+
+   - https://datafiles.samhsa.gov/info/browse-studies-nid3454
+   
 - Kaggle
 https://www.kaggle.com/datasets
 
