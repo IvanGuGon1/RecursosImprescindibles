@@ -8,6 +8,7 @@ Enlaces, fuentes, datasets, publicaciones
 ## Blogs
 - Django, Python
  http://www.marinamele.com/
+ 
 ## CMS
 - Wordpress
 https://www.digitalocean.com/community/tutorials/como-instalar-wordpress-con-lamp-en-ubuntu-16-04-es#requisitos-previos
@@ -29,6 +30,8 @@ https://www.hackerearth.com
 https://www.hackerrank.com/
 
 ## GO
+- Tour por Go en Español
+- https://go-tour-es.appspot.com/#1
 
 - Go para programadores de Python
 
