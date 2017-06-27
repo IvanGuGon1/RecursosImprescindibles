@@ -9,6 +9,10 @@ Enlaces, fuentes, datasets, publicaciones
 - Django, Python
  http://www.marinamele.com/
  
+ ## Comercio electronico
+ - Comparador de plataformas Open Source
+ - https://www.ecommwar.com
+ 
 ## CMS
 - Wordpress
 https://www.digitalocean.com/community/tutorials/como-instalar-wordpress-con-lamp-en-ubuntu-16-04-es#requisitos-previos
