@@ -38,6 +38,9 @@ https://www.hackerrank.com/
 
 - https://github.com/astaxie/build-web-application-with-golang/tree/master/es
 
+- Go con Ejemplos en Español
+- http://goconejemplos.com/
+
 ## Inteligencia Artificial y análisis de datos.
 
 - Curso de redes de la universidad de Navarra, 2016/2017
