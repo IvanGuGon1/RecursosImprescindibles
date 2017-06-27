@@ -1,6 +1,10 @@
 # RecursosImprescindibles
 Enlaces, fuentes, datasets, publicaciones
 
+## Algoritmia
+- Varios articulos sobre grafos y complejidad.
+- http://www.cs.us.es/~fsancho/?e=71
+
 ## Blogs
 - Django, Python
  http://www.marinamele.com/
