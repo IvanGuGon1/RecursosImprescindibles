@@ -30,6 +30,10 @@ https://www.hackerrank.com/
 
 - https://golang-for-python-programmers.readthedocs.io/en/latest/intro.html
 
+- Aplicaciones Web con Go (Español)
+
+- https://github.com/astaxie/build-web-application-with-golang/tree/master/es
+
 ## Inteligencia Artificial y análisis de datos.
 
 - Curso de redes de la universidad de Navarra, 2016/2017
