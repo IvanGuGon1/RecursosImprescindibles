@@ -119,6 +119,10 @@ https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mys
 
 ## Web
 
+- Django
+
+- https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
+
 - Flask
 
   https://lomelisan.wordpress.com/2015/05/29/mega-tutorial-de-flask-python-1era-parte-hola-mundo/
