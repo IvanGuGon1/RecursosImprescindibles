@@ -150,6 +150,10 @@ https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mys
   
   https://knpuniversity.com/screencast/twig/basics
   
+  - Vue.Js
+  
+  https://www.youtube.com/watch?v=JOVThZA_b64&list=PLhCiuvlix-rSdvpex9l5zDobZRh82Rl3S
+  
   - web2py
   http://www.web2py.com/books/default/chapter/41/00/prologo
   
